@@ -37,7 +37,7 @@ class Ui_Form(object):
         self.textBrowser_2.setGeometry(QtCore.QRect(90, 440, 591, 31))
         self.textBrowser_2.setObjectName("textBrowser_2")
         self.label_3 = QtWidgets.QLabel(Form)
-        self.label_3.setGeometry(QtCore.QRect(30, 450, 72, 15))
+        self.label_3.setGeometry(QtCore.QRect(15, 450, 72, 15))
         self.label_3.setObjectName("label_3")
         self.label_4 = QtWidgets.QLabel(Form)
         self.label_4.setGeometry(QtCore.QRect(30, 500, 81, 16))
