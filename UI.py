@@ -71,7 +71,7 @@ class Ui_Form(object):
         self.radioButton_1.setText(_translate("Form", "数据预处理"))
         self.radioButton_2.setText(_translate("Form", "层级分析"))
         self.pushButton.setText(_translate("Form", "运行"))
-        self.label_3.setText(_translate("Form", "CSV文件"))
+        self.label_3.setText(_translate("Form", "Excel文件"))
         self.label_4.setText(_translate("Form", "用户id字段"))
         self.toolButton.setText(_translate("Form", "..."))
         self.label.setText(_translate("Form", "推荐id字段"))
